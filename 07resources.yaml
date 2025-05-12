@@ -10,7 +10,7 @@ spec:
       # soft limit
       requests:
         cpu: "100m"
-        memory: "128Mi"\
+        memory: "128Mi"
       #limits shoud be atleast or more than request
       limits:
         cpu: "100m"
